@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ashapir0/test/issues"
   },
-  "homepage": "https://github.com/ashapir0/test#readme"
+  "homepage": "https://github.com/ashapir0/test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
